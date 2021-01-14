@@ -1,5 +1,5 @@
 /*
-   Bu kod Yildiz Roket Takimi tarafindan Turkiye Cumhuriyetinde Model Roketciligin gelismesinde katki saglamak amaciyla
+  Bu kod Yildiz Roket Takimi tarafindan Model Roketciligin gelismesinde katki saglamak amaciyla
   acik kaynakli olarak paylasilmistir.
 
   Bu kod BMP180 modulunun kullanimi icin yazilmis ornek bir koddur. 
@@ -10,7 +10,6 @@
     SCL: A5 (Uno/Nano), 21 (Mega/Mega Pro)
     SDA: A4 (Uno/Nano), 20 (Mega/Mega Pro)
 */
-
 
 #include <SFE_BMP180.h>
 #include <Wire.h>
