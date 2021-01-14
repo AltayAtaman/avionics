@@ -1,8 +1,10 @@
 /*
-   Bu kod Yildiz Roket Takimi tarafindan Turkiye Cumhuriyetinde Model Roketciligin gelismesinde katki saglamak amaciyla
+   Bu kod Yildiz Roket Takimi tarafindan Model Roketciligin gelismesine katki saglamak amaciyla
   acik kaynakli olarak paylasilmistir.
 
   Bu kod Hope RFM98W LoRa modulunun kullanimi icin yazilmis ornek bir koddur. 
+  
+  Detayli Bilgi Icin: https://www.yildizroket.org/blog-semruk3-aviyonikvekurtarma
 */
 
 #include <LoRaLib.h>
