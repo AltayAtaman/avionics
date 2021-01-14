@@ -1,5 +1,5 @@
 /*
-  Bu kod Yildiz Roket Takimi tarafindan Model Roketciligin gelismesinde katki saglamak amaciyla
+  Bu kod Yildiz Roket Takimi tarafindan Model Roketciligin gelismesine katki saglamak amaciyla
   acik kaynakli olarak paylasilmistir.
 
   Bu kod GY-NEO6MV2 modulunun kullanimi icin yazilmis ornek bir koddur.
