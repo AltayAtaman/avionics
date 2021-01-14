@@ -2,8 +2,8 @@
   Bu kod Yildiz Roket Takimi tarafindan Model Roketciligin gelismesine katki saglamak amaciyla
   acik kaynakli olarak paylasilmistir.
 
-  Bu kod Yildiz Roket Takiminin 2020 yilinda Teknofest 2020 Roket Yarismasinda ucus yapip
-  2.'lik elde eden Semruk - 3 Roketine ait ana ucus bilgisayarinin kodudur.
+  Bu kod, 2020 yilinda Teknofest 2020 Roket Yarismasinda ucus yapip 2.'lik elde eden 
+  Semruk - 3 Roketine ait ana ucus bilgisayarinin kodudur.
 
   Kod hakkinda sorulariniz icin aviyonik birimi uyelerimiz ile iletisime gecebilirsiniz.
   (Uyelerimizin iletisim bilgileri icin: https://www.yildizroket.org/takim-uyeleri)
