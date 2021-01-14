@@ -1,9 +1,9 @@
 /*
-   Bu kod Yildiz Roket Takimi tarafindan Turkiye Cumhuriyetinde Model Roketciligin gelismesinde katki saglamak amaciyla
+  Bu kod Yildiz Roket Takimi tarafindan Model Roketciligin gelismesinde katki saglamak amaciyla
   acik kaynakli olarak paylasilmistir.
 
-   Bu kod GY-NEO6MV2 modulunun kullanimi icin yazilmis ornek bir koddur.
-   Bu ornek kod Arduino Mega ve Arduino Mega Pro icin yazilmistir. 
+  Bu kod GY-NEO6MV2 modulunun kullanimi icin yazilmis ornek bir koddur.
+  Bu ornek kod Arduino Mega ve Arduino Mega Pro icin yazilmistir. 
 
   GY-NEO6MV2 GPS Baglantilari:
     Vin: 3.3V
