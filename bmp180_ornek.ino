@@ -1,5 +1,5 @@
 /*
-  Bu kod Yildiz Roket Takimi tarafindan Model Roketciligin gelismesinde katki saglamak amaciyla
+  Bu kod Yildiz Roket Takimi tarafindan Model Roketciligin gelismesine katki saglamak amaciyla
   acik kaynakli olarak paylasilmistir.
 
   Bu kod BMP180 modulunun kullanimi icin yazilmis ornek bir koddur. 
