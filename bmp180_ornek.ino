@@ -9,6 +9,8 @@
     Gnd: Gnd
     SCL: A5 (Uno/Nano), 21 (Mega/Mega Pro)
     SDA: A4 (Uno/Nano), 20 (Mega/Mega Pro)
+    
+   Detayli Bilgi Icin: https://www.yildizroket.org/blog-semruk3-aviyonikvekurtarma
 */
 
 #include <SFE_BMP180.h>
