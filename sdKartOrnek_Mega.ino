@@ -1,3 +1,12 @@
+/*
+  Bu kod Yildiz Roket Takimi tarafindan Model Roketciligin gelismesine katki saglamak amaciyla
+  acik kaynakli olarak paylasilmistir.
+  
+  Bu kod Mikro SD Kart Modulunun Arduino Mega ile kullanimi icin yazilmis ornek bir koddur. 
+  
+  Detayli Bilgi Icin: https://www.yildizroket.org/blog-semruk3-aviyonikvekurtarma
+*/
+
 #include <SD.h>
 
 File dosya;
