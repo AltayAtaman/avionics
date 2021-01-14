@@ -10,6 +10,8 @@
     Gnd: Gnd
     RX: 18
     TX: 19
+    
+  Detayli Bilgi Icin: https://www.yildizroket.org/blog-semruk3-aviyonikvekurtarma
 */
 
 #include <TinyGPS++.h>
